@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "vite": "^3.2.3"
+  },
+  "name": "selectpet",
+  "description": "Projeto usando api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaProenca1/SelectPet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessicaProenca1/SelectPet/issues"
+  },
+  "homepage": "https://github.com/JessicaProenca1/SelectPet#readme",
+  "type": "module"
+}
